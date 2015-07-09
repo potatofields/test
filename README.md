@@ -1,6 +1,6 @@
 # test
 test
-##testtest
-###testtesttest
 ##test
-some text
+*x
+*y
+*z
