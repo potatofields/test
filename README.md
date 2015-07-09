@@ -1,6 +1,6 @@
 # test
 test
 ##test
-*x
-*y
-*z
+* x
+* y
+* z
